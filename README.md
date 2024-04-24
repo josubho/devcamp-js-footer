@@ -11,7 +11,7 @@ npm install --save devcamp-js-footer
 Add to JavaScript Project with the following code:
 
 ```javascript
-import {footer } from 'devcamp-js-footer';
+import {footer } from 'devcamp-js-footer-josu';
 
 footer('Some Name');
 ```
